@@ -1,5 +1,5 @@
-# playfair_encdec-App
-Playfair encryption,decryption App.<br>
+# playfair_encdec GUI-App
+Playfair encryption,decryption GUI-App.<br>
 # futures of this app
 -Standerd algorithm of playfair (3x3) only text.<br>
 -Extended algorithm (6x6) text,numbers.<br>
