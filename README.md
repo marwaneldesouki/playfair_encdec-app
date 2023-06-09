@@ -13,8 +13,8 @@ i will add more description of this project soon :)
 # Project Name
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/marwaneldesouki/your-repo.svg)](https://github.com/marwaneldesouki/playfair_encdec-app/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/marwaneldesouki/your-repo.svg)](https://github.com/marwaneldesouki/playfair_encdec-app/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/marwaneldesouki/playfair_encdec-app.svg)](https://github.com/marwaneldesouki/playfair_encdec-app/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/marwaneldesouki/playfair_encdec-app.svg)](https://github.com/marwaneldesouki/playfair_encdec-app/issues)
 
 A brief description of your project. What it does and why it is useful.
 
