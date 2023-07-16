@@ -1,7 +1,7 @@
 
 
 
-# playfair_encdec GUI-App
+# Encode-Decode using Playfair GUI-App
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/marwaneldesouki/playfair_encdec-app.svg)](https://github.com/marwaneldesouki/playfair_encdec-app/stargazers)
@@ -28,9 +28,14 @@ You can use this tool to encrypt and decrypt<br>
 -using Ai KNNmodel to predict the power of the key.<br>
 
 
-## Installation
---
-i will add more description of this project soon :)
+## DataSet used in Ai model
+![Screenshot_1](https://github.com/marwaneldesouki/playfair_encdec-app/assets/37198610/17ffc324-b814-428a-860b-5bc33ec1ab7c)
+
+
+## How extended algorithm (8x8) Work
+1-encode media(image,audio) to base64
+2-put it inside 8x8 matrix
+3-and start the sequence of normal playfair
 
 ## ScreenShots
 -Text Page<br>
