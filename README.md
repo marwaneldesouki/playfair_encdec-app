@@ -15,7 +15,6 @@ You can use this tool to encrypt and decrypt<br>
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -33,9 +32,9 @@ You can use this tool to encrypt and decrypt<br>
 
 
 ## How extended algorithm (8x8) Work
-1-encode media(image,audio) to base64
-2-put it inside 8x8 matrix
-3-and start the sequence of normal playfair
+1-encode media(image,audio) to base64.<br>
+2-put it inside 8x8 matrix.<br>
+3-and start the sequence of normal playfair.<br>
 
 ## ScreenShots
 -Text Page<br>
